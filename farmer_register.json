@@ -1,0 +1,6 @@
+{
+    "name": "Farmer Bob",
+    "email": "farmer@example.com",
+    "password": "password123",
+    "role": "FARMER"
+}
