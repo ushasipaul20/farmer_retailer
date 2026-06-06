@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: farmer-retailer
+    env: java
+    buildCommand: mvn clean package
+    startCommand: java -jar target/farmer_retailer-0.0.1-SNAPSHOT.jar
